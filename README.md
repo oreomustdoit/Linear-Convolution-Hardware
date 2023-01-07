@@ -1,1 +1,1 @@
-# Linear-Convolution-Harware
+# Linear-Convolution-Hardware
